@@ -1,8 +1,9 @@
 Hi there 👋, My Name Jesay Sohasuhatan Ambarita
 
+![professional-banner](https://github.com/user-attachments/assets/81da1877-4d65-4323-a111-8549d22b6f1b)
+
 <!--
 **jesayaambarita/jesayaambarita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![professional-banner](https://github.com/user-attachments/assets/1a6fd968-d3ef-466b-97c1-a242ae19afb2)
 
 Here are some ideas to get you started:
 
