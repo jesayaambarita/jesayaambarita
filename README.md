@@ -1,6 +1,7 @@
 Hi there 👋, My Name Jesay Sohasuhatan Ambarita
 
-![professional-banner](https://github.com/user-attachments/assets/91890f4b-63ee-4901-9cc5-e2ec749f3bd6)
+![professional-banner](https://github.com/user-attachments/assets/2df38b59-70b6-41e2-9e17-1a6717c9d157)
+
 
 
 <!--
