@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d176f1de-1c59-4d93-a2f9-e3ff9403965f)## Hi there 👋, My Name Jesay Sohasuhatan Ambarita
+Hi there 👋, My Name Jesay Sohasuhatan Ambarita
 
 <!--
 **jesayaambarita/jesayaambarita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
