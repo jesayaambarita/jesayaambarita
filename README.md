@@ -1,7 +1,8 @@
-## Hi there 👋, My Name Jesay Sohasuhatan Ambarita
+![image](https://github.com/user-attachments/assets/d176f1de-1c59-4d93-a2f9-e3ff9403965f)## Hi there 👋, My Name Jesay Sohasuhatan Ambarita
 
 <!--
 **jesayaambarita/jesayaambarita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![professional-banner](https://github.com/user-attachments/assets/b2f4bbb7-3ec7-424a-b329-70b24bc4e7e3)
 
 Here are some ideas to get you started:
 
